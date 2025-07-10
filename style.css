@@ -1,0 +1,36 @@
+h1{
+    font-size: 300px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(233, 233, 200);
+    font-family: font-family: 'Grabstein Sans CE', sans-serif;
+}
+h2{
+    
+    font-weight: 100;
+    text-align: right;
+    color:rgb(100, 200, 40);
+    }
+    h3{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 20px;
+    }
+
+    .box1,.box2,.box3{
+        height: 100px;
+        width: 10px;
+        margin: 12px;
+        background-color: blue;
+    }
+    box wrapper 
+    {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .image.wrapper{
+        height: 100 px;
+        width: 10px;
+        background-image: url
+    

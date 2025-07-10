@@ -1,0 +1,51 @@
+header{
+    margin: 30px;
+    padding:10 px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: #300;
+    color: aliceblue;
+}
+header{
+    background:rgba(0, 0,0.8);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 1rem 2 rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+}
+header h1{
+    font-size: 1.5 rem;
+}
+nav a{
+     color:blanchedalmond;
+     margin: 0.1rem;
+     text-decoration: none;  
+     font-weight: bold; 
+}
+.hero{
+    
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding:2rem;
+}
+.hero h2{
+    font-size: 3rem;
+    color: magenta;
+    margin-bottom: 1rem;
+
+
+
+
+
+}
+
